@@ -1,2 +1,6 @@
 Test file to push to gitremote
 process
+
+
+
+This is the point where I'm adding new branch
